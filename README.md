@@ -72,14 +72,6 @@
         <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B3 Lab 1201</a>
       </td>
       
-        <td>
-        <a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL:B1 LAb 1308 </a>
-        <br>
-        <a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC:B2 Lab 1202 </a>
-        <br>
-        <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B3 Lab 1201</a>
-        
-      </td>
       <td></td>
       <td></td>
       <td></td>
