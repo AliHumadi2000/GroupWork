@@ -51,16 +51,16 @@
     <tr>
       <td>Thursday</td>
       <td>
-        <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B1 Lab 1201</a>
+        <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B3 Lab 1201</a>
         <br>
-        <a href="https://meet.google.com/uer-fwau-ywy" target="_blank"> PRK WTACC Lab 1202 </a>
+        <a href="https://meet.google.com/uer-fwau-ywy" target="_blank"> PRK WTACC:B1 Lab 1202 </a>
         <br>
         <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B2 Lab 1316A</a>
       </td>
       <td>
-        <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B1 Lab 1201</a>
+        <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B3 Lab 1201</a>
         <br>
-        <a href="https://meet.google.com/uer-fwau-ywy" target="_blank"> PRK WTACC Lab 1202 </a>
+        <a href="https://meet.google.com/uer-fwau-ywy" target="_blank"> PRK WTACC:B1 Lab 1202 </a>
         <br>
         <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B2 Lab 1316A</a>
       </td>
@@ -81,6 +81,38 @@
       <td>"" </td>
       <td>"" </td>
       <td> ""</td>
+    </tr>
+    <tr>
+      <td> Friday</td>
+      <td>
+          <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B1 Lab 1316A</a>
+           <br>
+        <a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL:B3 LAb 1308 </a>
+        <br>
+        <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B2 Lab 1201</a>
+      </td>
+      <td>
+          <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B1 Lab 1316A</a>
+           <br>
+        <a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL:B3 LAb 1308 </a>
+        <br>
+        <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B2 Lab 1201</a>
+      </td>
+       
+      <td>
+        <a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL:B2 LAb 1308 </a>
+      <br>
+       <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B1 Lab 1201</a>
+        <br>
+        <a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC:B3 Lab 1202 </a>
+      </td>
+      <td>
+        <a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL:B2 LAb 1308 </a>
+      <br>
+       <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B1 Lab 1201</a>
+        <br>
+        <a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC:B3 Lab 1202 </a>
+      </td>
     </tr>
 </table>
 
