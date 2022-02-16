@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Tuesday</td>
-    td><a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA Theory </a></td>
+    <td><a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA Theory </a></td>
     <td><a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL Theory </a></td>
     <td></td>
   <td> <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PABDAAOA:B1 Tut<br><a href="https://meet.google.com/vsi-duid-upf" target="_blank">PSD WTACC:B2 Tut</a></td>
