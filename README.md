@@ -20,7 +20,6 @@
     <td>Monday</td>
     <td><a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA Theory </a></td>
     <td><a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL Theory </a></td>
-    <td></td>
     <td><a href="https://meet.google.com/yko-bysx-ksm" target="_blank">RSJ MLADL:B3 Tut</a></td>
     <td><a href="https://meet.google.com/vsi-duid-upf" target="_blank">PSD WTACC:B3 Tut</a> <br> <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PABDAAOA:B2 Tut</td>
   <td> <a href="https://meet.google.com/yko-bysx-ksm" target="_blank">RSJ MLADL:B1 Tut </a></td>
