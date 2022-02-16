@@ -1,9 +1,71 @@
-# GroupWork
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+div
+{
+font-family: "Times New Roman", Times, serif;
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+table, th, td {
+  border: 1px solid;
+}
+table {
+  width: 100%;
+}
+table {
+  border-collapse: collapse;
+}
+table {
+  border: 1px solid;
+}
+table {
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+
+td {
+  text-align: center;
+}
+th {
+  text-align: left;
+}
+th, td {
+  padding: 7px;
+  text-align: left;
+}
+tr:hover {background-color: coral;}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+</style>
+</head>
+
 <body>
 
   <h3>Time Table </h3>
+<div style="overflow-x:auto;">
   <table>
   <tr>
     <th>Day</th>
@@ -25,6 +87,7 @@
   <td> <a href="https://meet.google.com/yko-bysx-ksm" target="_blank">RSJ MLADL:B1 Tut </a></td>
   <td><a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC Theory </a></td>
    <td><a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP Theory </a></td>
+<td></td>
   </tr>
   <tr>
     <td>Tuesday</td>
@@ -76,6 +139,10 @@
         <a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC:B2 Lab 1202 </a>
         <br>
           <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B3 Lab 1201</a> </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
     </tr>
     <tr>
       <td> Friday</td>
@@ -104,8 +171,13 @@
        <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B1 Lab 1201</a>
         <br>
         <a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC:B3 Lab 1202 </a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
     </tr>
 </table>
+</div>
 
 </body>
 </html>
