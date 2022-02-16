@@ -6,9 +6,15 @@
   <h3>Time Table </h3>
   <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Day</th>
+    <th>10:00-11:00</th>
+   <th>11:00-12:00</th>
+    <th>12:00-1:00</th>
+    <th>1:00-2:00</th>
+    <th>2:00-3:00</th>
+    <th>3:00-4:00</th>
+    <th>4:00-5:00</th>
+   <th>5:00-6:00</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
