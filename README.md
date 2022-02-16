@@ -47,8 +47,43 @@
       <td><a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC Theory </a></td>
       <td></td>
       <td></td>
-      
-      
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>
+        <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B1 Lab 1201</a>
+        <br>
+        <a href="https://meet.google.com/uer-fwau-ywy" target="_blank"> PRK WTACC Lab 1202 </a>
+        <br>
+        <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B2 Lab 1316A</a>
+      </td>
+      <td>
+        <a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP:B1 Lab 1201</a>
+        <br>
+        <a href="https://meet.google.com/uer-fwau-ywy" target="_blank"> PRK WTACC Lab 1202 </a>
+        <br>
+        <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B2 Lab 1316A</a>
+      </td>
+      <td>
+        <a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL:B1 LAb 1308 </a>
+        <br>
+        <a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC:B2 Lab 1202 </a>
+        <br>
+        <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B3 Lab 1201</a>
+        
+      </td>
+        <td>
+        <a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL:B1 LAb 1308 </a>
+        <br>
+        <a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC:B2 Lab 1202 </a>
+        <br>
+        <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B3 Lab 1201</a>
+        
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
 </table>
 
