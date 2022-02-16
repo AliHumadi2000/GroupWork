@@ -77,10 +77,10 @@
         <br>
           <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA:B3 Lab 1201</a> </td>
       
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
     </tr>
 </table>
 
