@@ -17,9 +17,14 @@
    <th>5:00-6:00</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Monday</td>
+    <td><<a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA Theory </a></td>
+    <td><<a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL Theory </a></td>
+    <td><<a href="https://meet.google.com/yko-bysx-ksm" target="_blank">RSJ MLADL:B3 Tut</a></td>
+    <td><<a href="https://meet.google.com/vsi-duid-upf" target="_blank">PSD WTACC:B3 Tut</a> <br> <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PABDAAOA:B2 Tut/td>
+  <td> <a href="https://meet.google.com/yko-bysx-ksm" target="_blank">RSJ MLADL:B1 Tut </a></td>
+  <td><a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC Theory </a></td>
+   <td><a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP Theory </a></td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
