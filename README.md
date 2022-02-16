@@ -27,9 +27,14 @@
    <td><a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP Theory </a></td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Tuesday</td>
+    td><a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PAB DAAOA Theory </a></td>
+    <td><a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL Theory </a></td>
+    <td></td>
+     <td><a href="https://meet.google.com/yko-bysx-ksm" target="_blank">RSJ MLADL:B2 Tut</a></td>    
+     <td><a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC Theory </a></td>
+   <td><a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP Theory </a></td>
+    <td><a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP Theory </a></td>
   </tr>
 </table>
 
