@@ -32,7 +32,6 @@
     <td><a href="http://meet.google.com/pjc-dckf-vka" target="_blank">PPG MLADL Theory </a></td>
     <td></td>
   <td> <a href="https://meet.google.com/apr-rqcy-wnt" target="_blank">PABDAAOA:B1 Tut<br><a href="https://meet.google.com/vsi-duid-upf" target="_blank">PSD WTACC:B2 Tut</a></td>
-  <td></td>
      <td><a href="https://meet.google.com/yko-bysx-ksm" target="_blank">RSJ MLADL:B2 Tut</a></td>    
      <td><a href="https://meet.google.com/cez-ztbd-vdn" target="_blank"> ARS WTACC Theory </a></td>
    <td><a href="https://meet.google.com/azd-rpcy-stn" target="_blank"> DJJ SP Theory </a></td>
